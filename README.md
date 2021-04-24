@@ -5,8 +5,8 @@ I am Computer Science Engineer, 3rd year student at Banasthali Vidyapith ( Rajas
 Skills: C / C++ / HTML / CSS / Python / SQL / DBMS
 
 - 🔭 I’m currently working on web page development using HTML and CSS. 
-- 🌱 I’m currently learning Java and Machine Learing. 
-- 💬 Ask me about C++ 
+- 🌱 I’m currently learning Machine Learing. 
+- 💬 Ask me about C++ , Python , data structure
 - 📫 How to reach me: hitikatripathy17@gmail.com 
 
 

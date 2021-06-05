@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Hitika Tripathy.
 #### I am Computer Science Engineer..
-I am Computer Science Engineer, 3rd year student at Banasthali Vidyapith ( Rajasthan )
+I am Computer Science Engineer, student at Banasthali Vidyapith ( Rajasthan )
 
-Skills: C / C++ / HTML / CSS / Python / SQL / DBMS
+Skills: C++ / HTML / CSS / Python / SQL / DBMS
 
 - 🔭 I’m currently working on web page development using HTML and CSS. 
 - 🌱 I’m currently learning Machine Learing. 

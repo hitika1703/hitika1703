@@ -4,7 +4,7 @@ I am Computer Science Engineer, student at Banasthali Vidyapith ( Rajasthan )
 
 Skills: C++ / HTML / CSS / Python / SQL / DBMS 
 
-- 🔭 I’m currently working as Data Scientist intern in SeekACE Solutions. 
+- 🔭 I’m currently working as Data Scientist intern at SeekACE Solutions. 
 - 🌱 I’m currently learning Machine Learing. 
 - 💬 Ask me about C++ , Python , SQL
 - 📫 How to reach me: hitikatripathy17@gmail.com 
